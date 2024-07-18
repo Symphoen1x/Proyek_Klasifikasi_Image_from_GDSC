@@ -1,4 +1,4 @@
-#. Proyek Klasifikasi Gambar Gerakan Tangan Batu, Kertas, Gunting dengan Jaringan Neural TensorFlow_by Isa Aulia Almadani
+# Proyek Klasifikasi Gambar Gerakan Tangan Batu, Kertas, Gunting dengan Jaringan Neural TensorFlow_by Isa Aulia Almadani
 ### Project Overview:
 
 Proyek ini bertujuan untuk membangun model klasifikasi gambar yang dapat mengenali gerakan tangan batu, kertas, dan gunting menggunakan jaringan neural dengan TensorFlow. Proyek ini menggunakan dataset gambar yang diambil dari GitHub dan mencakup tahapan mulai dari impor pustaka, preprocessing data, membangun model, hingga prediksi gambar.
